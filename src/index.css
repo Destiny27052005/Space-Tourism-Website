@@ -48,7 +48,7 @@ nav {
   display: flex;
   align-items: center;
   background: rgba(101, 99, 99, 0.05);
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(10px);
   padding-left: 2rem;
 }
